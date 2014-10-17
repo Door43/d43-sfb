@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sfb:home|Door43 (sfb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sfb|d43-sfb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sfb/archive/master.zip|d43-sfb.zip]]
+
+**Recent Changes**
+{{changes>ns = sfb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sfb|Ethnologue data]]
+
